@@ -1,6 +1,6 @@
 # Cartesia Voice Agent Example
 
-This is a demo of a LiveKit [Voice Agent](https://docs.livekit.io/agents/) using [Cartesia](https://www.cartesia.ai/).
+This is a demo of a LiveKit [Voice Agent](https://docs.livekit.io/agents/) using [Cartesia](https://cartesia.ai/).
 
 The example includes a custom Next.js frontend and Python agent.
 
