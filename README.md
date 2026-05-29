@@ -8,7 +8,7 @@ The example includes a custom Next.js frontend and Python agent.
 
 <https://cartesia-assistant.vercel.app/>
 
-![Screenshot of the Cartesia Voice Agent Example](.github/screenshot.png)
+![Screenshot of the Cartesia Voice Agent Example](.github/screenshot-2026-05-29.png)
 
 ## Running the example
 
